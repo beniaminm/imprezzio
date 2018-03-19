@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.1.0",
+  "iOS" : [
+    {
+      "name" : "SwiftInstagram",
+      "hash" : "9147b410b5e28b19ddf89d893a35957db2085acfec97147550091d60beb32abd"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+github "facebook/Facebook-SDK-Swift"
+github "AnderGoig/SwiftInstagram" ~> 1.1.0

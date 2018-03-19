@@ -1,0 +1,4 @@
+github "AnderGoig/SwiftInstagram" "v1.1.0"
+github "BoltsFramework/Bolts-ObjC" "1.9.0"
+github "facebook/Facebook-SDK-Swift" "0.3.0"
+github "facebook/facebook-ios-sdk" "sdk-version-4.31.1"

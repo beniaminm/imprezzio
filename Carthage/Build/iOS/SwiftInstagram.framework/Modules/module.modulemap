@@ -1,0 +1,11 @@
+framework module SwiftInstagram {
+  umbrella header "SwiftInstagram.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftInstagram.Swift {
+    header "SwiftInstagram-Swift.h"
+    requires objc
+}
